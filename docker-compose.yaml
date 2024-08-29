@@ -11,4 +11,4 @@ services:
     volumes:
       - .:/home/app/api   
     stdin_open: true
-    tty: true 
+    tty: true
